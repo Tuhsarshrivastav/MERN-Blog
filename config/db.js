@@ -3,7 +3,7 @@ require("dotenv").config();
 module.exports = connect = async () => {
   try {
     const response = await mongoose.connect(
-      "mongodb+srv://mern:mern@cluster0.blyxf.mongodb.net/blog?retryWrites=true&w=majority",
+      //paste your db key,
       {
         useUnifiedTopology: true,
         useNewUrlParser: true,
