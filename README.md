@@ -1,37 +1,5 @@
 DEMO = https://mern-blog-app1.herokuapp.com/
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
 
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ">
-    <img src="/Youtube.jpg" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">BLOG MERN Stack Course</h3>
-
-  <p align="center">
-    MERN Stack course tutorials from scratch
-    <br />
-    <a href="https://www.youtube.com/playlist?list=PLZdXBpi-l7C7cle-FNXQuYnYl2mdPe_o1"><strong>here is Youtube playlist »</strong></a>
-    <br />
-    <br />
-  </p>
-</p>
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
